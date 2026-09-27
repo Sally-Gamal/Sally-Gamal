@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&height=50&lines=Data+Analyst;Power+BI+Developer;Machine+Learning+Engineer;Turning+data+into+insights;Building+AI+powered+solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&height=50&lines=Data+Analyst;Power+BI+Developer;Machine+Learning+Engineer;Turning+data+into+insights;Building+AI-powered+solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 ## 💫 About Me
 
-* 🚀 Hi! I'm **Sally Gamal**, a Business Information Systems (BIS) graduate passionate about **Data Analytics, Business Intelligence, Machine Learning, and AI Applications**.
+* 🚀 Hi! I'm **Sally Gamal**, a Business Information Systems (BIS) graduate with over **1.5 years of experience** specializing in **Data Analytics, Business Intelligence, Machine Learning, and AI Applications**.
 * 🎯 I enjoy turning raw data into valuable insights by building dashboards, analyzing datasets, and developing intelligent solutions powered by AI.
 * 💡 My goal is to create impactful data-driven applications that help businesses make smarter decisions.
 
