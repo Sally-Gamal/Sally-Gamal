@@ -31,7 +31,7 @@
 ## 🎓 Education
 
 * 🏛️ **Bachelor of Business Information Systems (BIS)**
-* 🏫 **Delta University for Science and Technology** | Grade: **Excellent**
+* 🏫 **Delta University for Science and Technology** 
 * 🇪🇬 **Egypt**
 
 ---
